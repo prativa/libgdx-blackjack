@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module" module-name="core" exported=""/>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.0/97ad3f9d65b8b9ecac57547bda2fb2f7626fb8f1/gdx-backend-android-1.5.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.0/6f801e1b67e470bac10505edf78942883360483e/gdx-backend-android-1.5.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.5.0/190fcbf9111e2b2ea798ecc5dd8995b861193828/gdx-box2d-1.5.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.5.0/8dde3f5824c5ae0e8d051d24c87c06317f03a11d/gdx-box2d-1.5.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.4.0/f7532801d6c1526df4a609341fa145acb9e8eb3a/gdx-ai-1.4.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.4.0/7bc4832d138196172d4d453511dff7a3cc0f83f4/gdx-ai-1.4.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.0/e4272f711228f3cd214802949f18124e2eef1cbc/gdx-1.5.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Hanh/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.0/84a10383c3baf2d9cecdd0891e14cc580d24a555/gdx-1.5.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="UPDATE_PROPERTY_FILES" value="true"/>
+      </configuration>
+    </facet>
+  </component>
+</module>
